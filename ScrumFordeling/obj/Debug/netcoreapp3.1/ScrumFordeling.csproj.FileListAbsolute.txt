@@ -1,0 +1,11 @@
+C:\Users\ander\Desktop\Kode 2020\ScrumFordeling\ScrumFordeling\bin\Debug\netcoreapp3.1\ScrumFordeling.exe
+C:\Users\ander\Desktop\Kode 2020\ScrumFordeling\ScrumFordeling\bin\Debug\netcoreapp3.1\ScrumFordeling.deps.json
+C:\Users\ander\Desktop\Kode 2020\ScrumFordeling\ScrumFordeling\bin\Debug\netcoreapp3.1\ScrumFordeling.runtimeconfig.json
+C:\Users\ander\Desktop\Kode 2020\ScrumFordeling\ScrumFordeling\bin\Debug\netcoreapp3.1\ScrumFordeling.runtimeconfig.dev.json
+C:\Users\ander\Desktop\Kode 2020\ScrumFordeling\ScrumFordeling\bin\Debug\netcoreapp3.1\ScrumFordeling.dll
+C:\Users\ander\Desktop\Kode 2020\ScrumFordeling\ScrumFordeling\bin\Debug\netcoreapp3.1\ScrumFordeling.pdb
+C:\Users\ander\Desktop\Kode 2020\ScrumFordeling\ScrumFordeling\obj\Debug\netcoreapp3.1\ScrumFordeling.csprojAssemblyReference.cache
+C:\Users\ander\Desktop\Kode 2020\ScrumFordeling\ScrumFordeling\obj\Debug\netcoreapp3.1\ScrumFordeling.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Kode 2020\ScrumFordeling\ScrumFordeling\obj\Debug\netcoreapp3.1\ScrumFordeling.AssemblyInfo.cs
+C:\Users\ander\Desktop\Kode 2020\ScrumFordeling\ScrumFordeling\obj\Debug\netcoreapp3.1\ScrumFordeling.dll
+C:\Users\ander\Desktop\Kode 2020\ScrumFordeling\ScrumFordeling\obj\Debug\netcoreapp3.1\ScrumFordeling.pdb
